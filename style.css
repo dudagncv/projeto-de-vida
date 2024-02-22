@@ -1,0 +1,7 @@
+@import url('https://fonts.googleleapis.com/css2?family=Chakra+wght@400;700display=swap')
+
+body{
+    background-color:var(--cor-de-fundo);
+    color: var (--branco);
+    font-family:'Chakra Petch', sans-serif;
+}
